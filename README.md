@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Guys, My Name Is Badiatul Roziqin 👋
 
 <!--
 **BadiatulRoziqin/BadiatulRoziqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on PT Midtrans
+🌱 I’m currently learning Laravel Framework
